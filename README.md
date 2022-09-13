@@ -1,5 +1,20 @@
 Milton Calvetti
 
+1er pre entrega del desafio final.
+
+Es basicamente lo mismo que presente para el desafio 2, se trata de un carrito de compras donde se interactua con el usuario, se captura por prompt lo que este escoje de la lista de productos correspondiente.
+
+Esta construido a partir de un ciclo WHILE con IF y ELSE IF, tambien utilice un ARRAY, FUNCIONES y FUNCIONES "FLECHA", al igual que un SWITCH con sus opciones y sus correspondientes BRAKE.
+También utilicé alguinos METODOS como PUSH, JOIN, PARSEINT y FILTROS.
+
+Al final por consola se muestran los productos dentro del carrito, el total por producto y el total a pagar.
+
+Tengo pendiente para la proxima entrega realizar alguna otra acción como pedirle al usuario si se quiere inscribir en un newslwtter y que ingrese su correo electronico.
+
+Para esta pre entrea no trabaje el index.html porque no era necesario, pero ya me encuentro trabajando en ello y en el css.
+
+
+
 Desafio 2
 
 Se trata de un carrito de compras donde se interactua con el usuario, este puede escojer los productos de la lista al tipearlos en el cuadro correspondiente.
