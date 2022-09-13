@@ -27,7 +27,7 @@ else if (option == "no") {
 }
 
 while (option != "no") {
-    let products = prompt("Escoje tus productos \n Chocolate $25 \n refresco $50 \n papitas $75 \n hamburguesa $100 \n alfajor $120")
+    let products = prompt("Escoje tus productos \n chocolate $25 \n refresco $50 \n papitas $75 \n hamburguesa $100 \n alfajor $120")
     let price = 0
 
     if (products == "chocolate" || products == "refresco" || products == "papitas" || products == "hamburguesa" || products == "alfajor") {
